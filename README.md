@@ -1,0 +1,17 @@
+# go-hack
+
+[![view examples](https://img.shields.io/badge/learn%20by-examples-0C8EC5.svg?style=for-the-badge&logo=go)](https://github.com/pefish/go-hack)
+
+针对Golang的一些黑科技
+
+1. 获取gid
+2. wrap goexit
+
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability, please send an e-mail to [pefish@qq.com](mailto:pefish@qq.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+This project is licensed under the [Apache License](LICENSE).
